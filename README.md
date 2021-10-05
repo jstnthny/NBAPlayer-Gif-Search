@@ -1,4 +1,4 @@
-#NBA Gif Search
+# NBA Gif Search
 
 - [x] A user can search for any NBA player (ex: Lebron James, Kyle Lowry, Stephen Curry) and the players stats (team, height, position)
 will be displayed. 
