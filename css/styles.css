@@ -1,0 +1,108 @@
+body{
+    background-color: #0B0C10;
+}
+
+.app-container{
+    margin-top: 2em;
+    text-align: center;
+}
+
+.app-container h1, h2, h3{
+    color: #66FCF1;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.app-container p{
+    color: #66FCF1;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.player-search{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.rules{
+    color: #fff;
+    margin: 2em auto;
+    border: 1px solid #fff;
+    width: 30%;
+    text-align: center;
+    padding: 3em;
+
+}
+
+.rules ol{
+    text-align: left;
+}
+
+.rules img{
+    max-width: 450px;
+    margin: 2em auto;
+    text-align: center;
+}
+
+.btn{
+    color: whitesmoke;
+    background-color: #45A29E;
+}
+
+.active{
+    border: #45A29E 2px solid;
+}
+
+#link{
+    background-color: whitesmoke;
+    width: 40%;
+    margin: 1.5em auto;
+    border-radius: 10px;
+
+}
+
+
+.gif-style{
+    margin: 0.5em;
+}
+
+.modal-content{
+    background-color: #0B0C10;
+    color: whitesmoke;
+}
+
+.modal-header, .modal-footer{
+    border: none;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+
+.header-gif{
+    max-width: 150px;
+    margin-bottom: 1.5em;
+}
+
+
+@media screen and (max-width: 768px){
+    #link{
+        width: 100%;
+    }
+
+    .rules{
+        width: 90%;
+    }
+
+
+}
+
+@media screen and (max-width: 414px){
+    .modal-content{
+        max-width: 360px;
+    }
+
+    .rules img{
+        display: none;
+    }
+}
