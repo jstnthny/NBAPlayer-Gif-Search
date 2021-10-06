@@ -40,16 +40,6 @@ require_once 'php/giphy.php';
     <img class="header-gif" src="https://media0.giphy.com/media/3rgXBxficY9EFdNb0I/200.webp?cid=ecf05e47t6uybkmhome7xk792meupgs5vupxgpwgi6jyq7g4&rid=200.webp&ct=g">
         <h2>Nba player Gif Search</h2>
 
-    <div class="rules">
-        <h3>How does it Work?</h3>
-        <img src="./images/ezgif.com-gif-maker.gif">
-        <ol type="1">
-            <li>Search for a NBA player (past or present player Ex: Lebron James, Kyle Lowry, Michael Jordan)</li>
-            <li>Copy a link of the gif</li>
-            <li>Send it your friends!</li>
-        </ol>
-    </div>
-
 
 <!--    </div>-->
 
